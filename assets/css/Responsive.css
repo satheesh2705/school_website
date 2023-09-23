@@ -1,0 +1,134 @@
+@media only screen and (max-width: 767px) {
+
+    
+
+}
+
+@media only screen and (max-width: 640px) {
+    .imagecontainershining {
+        width: 100% !important;
+        float: left;
+    }
+    .sliders {
+        display: flex;
+        width: 555px !important;
+        height: 300px;
+        position: relative;
+        overflow: hidden;
+    }
+    body{
+        margin: 0;
+           padding: 0;
+          
+           width: auto;
+       }
+.navbar-area .navbar .navbar-nav .nav-item {
+    margin: 0 16px;
+    position: relative;
+    padding: 11px 0px;
+}
+.slider-content .title {
+    font-size: 34px;
+    line-height: 45px;
+    text-align: center;
+}
+.slider-content .text {
+    color: #fff;
+    font-size: 29px !important;
+    line-height: 29px;
+    margin-top: 16px;
+    font-weight: normal !important;
+    text-align: center;
+}
+.slider-content .titlenew {
+    font-size: 20px;
+    line-height: 51px !important;
+    color: #fff;
+    font-weight: 300;
+    text-align: center !important;
+}
+.textcontainer {
+    float: left;
+    width: 100% !important;
+}
+.slider {
+    padding: 1px 1px !important;
+}
+
+.submissionnew {
+    color: #000;
+    font-size: 20px !important;
+    padding-bottom: 19px;
+}
+.imagecontainer {
+    float: left !important;
+    width: 100% !important;
+}
+.submissi {
+    color: #000;
+    font-size: 21px !important;
+    padding-bottom: 1px !important;
+}
+.images {
+    float: left;
+    width: 33.3% !important;
+    padding: 5px;
+    border-right: 2px;
+}
+.widthmission {
+    width: 95% !important;
+    border-radius: 4px;
+}
+.missiontxt {
+    padding-top: 7px;
+    color: #fff;
+    padding-bottom: 19px;
+    font-weight: bold;
+}
+.submission {
+    color: #fff;
+    font-size: 26px !important;
+    padding-bottom: 19px !important;
+}
+.textcontainershing {
+    float: left;
+    width: 100% !important;
+}
+.shingingtext {
+    width: 100% !important;
+    float: right;
+    margin: 14px 0px !important;
+}
+
+.sliders .slides img {
+    width: 94% !important;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+}
+
+
+
+@media only screen and (max-width: 360px) {
+.textcontainershing {
+    float: left;
+    width: 100% !important;
+}
+.shingingtext p {
+    font-size: 19px !important;
+    line-height: 40px;
+}
+
+.name{
+    font-size: 13px!important;
+}
+
+body{
+     margin: 0;
+        padding: 0;
+        display: inline-block;
+        width: auto;
+    }
+
+}
